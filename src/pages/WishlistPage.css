@@ -1,0 +1,52 @@
+
+.wish-sec {
+    height: 350px;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.wish-card{
+height:100%;
+width: 100%;
+padding: auto;
+}
+
+.wish-imgbox {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: 100%;
+}
+
+.wish-img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    overflow: clip;
+}
+
+.wish-title{
+    height:40px;
+    overflow: clip;
+    margin-bottom: 5px;
+}
+
+.wish-price{
+display: flex;
+height: 25px;
+align-items: center;
+margin-top: 5px;
+}
+
+.wishbtn-box{
+    align-items: center;
+}
+/* 
+.wishicon {
+    position: absolute;
+    right: 5px;
+    top:5px;
+    z-index: 999;
+} */

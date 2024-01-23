@@ -1,0 +1,27 @@
+.fx-bottom {
+    position:fixed;
+    bottom: 0px;
+    width: 100%;
+    background:whitesmoke;
+}
+
+.desc-img-box {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+       height: 400px;
+       width:auto;
+        margin: auto;
+       overflow: clip;  
+       object-fit: contain;
+}
+
+.desc-img {
+    object-fit: contain;
+}
+
+.fx-col {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

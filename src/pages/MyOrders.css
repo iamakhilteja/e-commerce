@@ -1,0 +1,8 @@
+@media (min-width: 761px) {
+    .My-orders {
+      width: 75%; /* Adjust the width based on your preference */
+      padding: 10px;
+      margin-left: auto;
+      margin-right: auto; /* Adjust the padding based on your preference */
+    }
+  }

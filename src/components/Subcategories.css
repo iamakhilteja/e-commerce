@@ -1,0 +1,28 @@
+.rw{
+  width:100%;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left:15px;
+  padding-right: 15px;
+}
+.cat-page {
+padding: 5px;
+margin: 10px;
+}
+.outline{
+  width: 100px;
+  height: 100px;
+}
+.scimg  {
+  display:flex;
+  align-items: center;
+ justify-content: center;
+}
+
+.ca-text {
+  display:flex;
+ text-align: center;
+ align-items: center;
+ justify-content: center;
+ padding: 2px;
+}

@@ -1,0 +1,66 @@
+[
+    {
+        "postid": 1,
+        "post_title": "Dental Hygienist",
+        "description": "This is dummy job presesntaion for the people who are looking for any job",
+        "vancancies": 10,
+        "posted_data": "09-May-2023",
+        "location": "Hyderabad",
+        "pay": 600,
+        "pay_type": "Contract",
+        "start_date": "20/05/2023",
+        "end_date": "23/05/2023",
+        "working_days": 3,
+        "skills": [
+            "Dentist",
+            "Nurse"
+        ],
+        "languages": [
+            "English",
+            "Hindi"
+        ]
+    },
+    {
+        "postid": 2,
+        "post_title": "Event Organiser",
+        "description": "This is dummy job presesntaion for the people who are looking for any job",
+        "vancancies": 10,
+        "posted_data": "09-May-2023",
+        "location": "Hyderabad",
+        "pay": 600,
+        "pay_type": "Contract",
+        "start_date": "20/05/2023",
+        "end_date": "23/05/2023",
+        "working_days": 3,
+        "skills": [
+            "Events",
+            "Lead"
+        ],
+        "languages": [
+            "English",
+            "Hindi"
+        ]
+    },
+    {
+        "postid": 3,
+        "post_title": "Lenscart Marketing",
+        "description": "This is dummy job presesntaion for the people who are looking for any job",
+        "vancancies": 10,
+        "posted_data": "09-May-2023",
+        "location": "Chennai",
+        "pay": 200,
+        "pay_type": "Contract",
+        "start_date": "20/06/2023",
+        "end_date": "23/06/2023",
+        "working_days": 3,
+        "skills": [
+            "Inter",
+            "SSC"
+        ],
+        "languages": [
+            "English",
+            "Hindi",
+            "Telugu"
+        ]
+    }
+]

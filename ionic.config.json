@@ -1,0 +1,7 @@
+{
+  "name": "tinyforce",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
